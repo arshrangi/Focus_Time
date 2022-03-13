@@ -7,13 +7,13 @@ App also shows the history of activities which you focused on recently.
 
 # Screenshots
 
-![Home](/assets/github_sc/home.png?raw=true width="300" "Home")
+<img src="/assets/github_sc/home.png?raw=true" width="300">
 
-![Timer Initial State](/assets/github_sc/timer_initial.png?raw=true width="300" "Timer Initial State")
+<img src="/assets/github_sc/timer_initial.png?raw=true" width="300">
 
-![Timer Progress State](/assets/github_sc/timer_progress.png?raw=true width="300" "Timer Progress State")
+<img src="/assets/github_sc/timer_progress.png?raw=true" width="300">
 
-![Home with history](/assets/github_sc/home_and_history.png?raw=true width="300" "Home with history")
+<img src="/assets/github_sc/timer_progress.png?raw=true" width="300">
 
 # Setup
 
